@@ -16,6 +16,7 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
   aop:
     proxy-target-class: true
+
 mybatis-plus:
   mapper-locations: classpath*:/mapper/*.xml
   typeAliasesPackage: com.kun98.common.po

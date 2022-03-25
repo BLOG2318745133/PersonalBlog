@@ -2,7 +2,7 @@ server:
   port: 8686
 spring:
   profiles:
-    active: dev
+    active: prod
   application:
     name: blog-eureka
 #ribbon:
@@ -13,4 +13,4 @@ eureka:
     register-with-eureka: false #是否将自己注册到eureka中
     fetch-registry: false #是否从eureka中获取信息
     service-url:
-      defaultZone: http://127.0.0.1:${server.port}/eureka/
+      defaultZone: http://139.224.194.235:${server.port}/eureka/

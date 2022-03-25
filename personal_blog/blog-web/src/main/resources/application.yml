@@ -3,21 +3,12 @@ server:
 
 spring:
   profiles:
-    active: dev
+    active: prod
   application:
     name: blog-server
-  redis:
-    host: 192.168.75.131
-    password: 1234
-
-  datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/blog_reference?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B9
-    username: root
-    password: 1016
-    type: com.alibaba.druid.pool.DruidDataSource
   aop:
     proxy-target-class: true
+
 mybatis-plus:
   mapper-locations: classpath*:/mapper/*.xml
   typeAliasesPackage: com.kun98.common.po
@@ -44,10 +35,4 @@ enable:
 ribbon:
   ReadTimeout: 60000
   ConnectTimeout: 60000
-eureka:
-  client:
-    service-url:
-      defaultZone: http://127.0.0.1:8686/eureka/
-  instance:
-    prefer-ip-address: true
 
