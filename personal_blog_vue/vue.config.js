@@ -1,10 +1,10 @@
 module.exports = {
   devServer: {
     port: 8090,
-    host: '127.0.0.1',
+    host: '139.224.194.235',
     proxy: {
       '/api': {
-        target: 'http://127.0.0.1:9001',
+        target: 'http://139.224.194.235:9001',
         changeOrigin: true,
         // secure: false,
         pathRewrite: {
@@ -12,7 +12,7 @@ module.exports = {
         }
       },
       '/serverApi': {
-        target: 'http://127.0.0.1:9002/',
+        target: 'http://139.224.194.235:9002/',
         changeOrigin: true,
         // secure: false,
         pathRewrite: {
@@ -20,7 +20,7 @@ module.exports = {
         }
       },
       '/extension': {
-        target: 'http://127.0.0.1:9003',
+        target: 'http://139.224.194.235:9003',
         changeOrigin: true,
         // secure: false,
         pathRewrite: {
@@ -36,7 +36,7 @@ module.exports = {
         }
       },
       '/dl': {
-        target: 'http://127.0.0.1:9005',
+        target: 'http://139.224.194.235:9005',
         changeOrigin: true,
         // secure: false,
         pathRewrite: {
@@ -44,7 +44,7 @@ module.exports = {
         }
       },
       '/ai': {
-        target: 'http://127.0.0.1:9007',
+        target: 'http://139.224.194.235:9007',
         changeOrigin: true,
         // secure: false,
         pathRewrite: {
