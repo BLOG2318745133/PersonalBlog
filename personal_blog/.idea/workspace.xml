@@ -4,7 +4,116 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66053ef7-5d60-44c3-8819-dad9848a3f8d" name="Changes" comment="" />
+    <list default="true" id="66053ef7-5d60-44c3-8819-dad9848a3f8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/blog-common-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/entity/QueryPageBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/entity/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/entity/ResultInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/po/Blog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/po/BlogTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/po/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/po/Tag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/po/ThumbsUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/po/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/po/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/po/Views.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/util/JsonLongSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/vo/AddBlogVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/vo/BlogVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/vo/TagVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/vo/TypeVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/classes/com/kun98/common/vo/UserVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/blog-encrypt-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/blog-encrypt-1.0.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/classes/com/kun98/encrypt/EncryptApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/classes/com/kun98/encrypt/filter/RsaRequestFilter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/classes/com/kun98/encrypt/filter/RsaRequestFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/classes/com/kun98/encrypt/rsa/Base64Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/classes/com/kun98/encrypt/rsa/RSA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/classes/com/kun98/encrypt/rsa/RsaKeys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/classes/com/kun98/encrypt/rsa/mBase64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/classes/com/kun98/encrypt/service/RsaService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/classes/com/kun98/encrypt/service/RsaServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-encrypt/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-eureka/target/blog-eureka-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-eureka/target/blog-eureka-1.0.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-eureka/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-eureka/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-eureka/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-eureka/target/classes/com/kun98/eureka/EurekaApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-eureka/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/blog-web-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/blog-web-1.0.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/BlogServerApplicationMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/annotations/IPRequired.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/annotations/LoginRequired.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/config/GlobalCorsConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/config/MyBatisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/config/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/config/Swagger2Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/config/WebMvcConfigure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/config/WebSecurityConfigure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/controller/ArchiveController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/controller/CommentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/controller/TagShowController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/controller/TypeShowController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/controller/admapi/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/controller/admin/BlogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/controller/admin/ReportController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/controller/admin/TagController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/controller/admin/TypeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/controller/admin/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/interceptor/AuthenticationInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/mapper/BlogMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/mapper/BlogTagMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/mapper/CommentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/mapper/TagMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/mapper/ThumbsUpMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/mapper/TypeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/mapper/ViewsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/BlogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/BlogTagService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/CommentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/TagService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/TypeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/ViewsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/impl/BlogServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/impl/BlogTagServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/impl/CommentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/impl/TagServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/impl/TypeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/service/impl/ViewsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/utils/BeanUtilsIgnoreNull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/utils/IpUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/utils/JWTUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/utils/MarkdownUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/utils/MarkdownUtils$CustomAttributeProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/utils/MarkdownUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/com/kun98/server/utils/RedisUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/mapper/BlogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/classes/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +122,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="prod" />
+        <entry key="$PROJECT_DIR$/.." value="prodOnAWS" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -25,6 +134,14 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.4.0/mybatis-plus-core-3.4.0.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blog-encrypt/src/main/resources/application-prod.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blog-encrypt/src/main/resources/application.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blog-web/src/main/resources/application.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blog-encrypt/src/main/resources/application-dev.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blog-web/src/main/resources/application-prod.yml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -96,6 +213,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648118965875</updated>
       <workItem from="1648118967604" duration="4467000" />
+      <workItem from="1648529097788" duration="619000" />
     </task>
     <servers />
   </component>
